@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a rising third year PhD student at the University of Washington in the Department of Atmospheric and Climate Science. I am co-advised by Dr. Qiang Fu and Dr. L. Ruby Leung at Pacific Northwest National Laboratory, and I work on research questions broadly related to the hydroclimate and mesoscale convective systems.
+I am a rising third year PhD student at the University of Washington in the Department of Atmospheric and Climate Science. I am co-advised by [Dr. Qiang Fu](https://atmos.washington.edu/~qfu/) and [Dr. L. Ruby Leung](https://www.pnnl.gov/people/lai-yung-ruby-leung) at Pacific Northwest National Laboratory and I work on research questions broadly related to the hydroclimate and mesoscale convective systems.
