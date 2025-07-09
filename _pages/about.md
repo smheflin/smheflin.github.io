@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Graduate Student</a>. Atmospheric-Geophysics Building. smheflin@uw.edu 
+subtitle: <a href='#'>Graduate Student</a>. University of Washington. smheflin@uw.edu 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Atmospheric-Geophysics (ATG) Building</p>
+    <p>3920 Okanogan Ln NE</p>
+    <p>Seattle, WA 98195/p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
